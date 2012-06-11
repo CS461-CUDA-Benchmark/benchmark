@@ -1,3 +1,6 @@
+/************************************************************************************************************************************
+ * This branch has been deprecated. Please see "http://github.com/cuda-encryption-benchmarks/benchmark" for the non-deprecated code *
+ ***********************************************************************************************************************************/
 
 // Macro to allow clock_getres() and related functionality.
 #ifndef _POSIX_C_SOURCE

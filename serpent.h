@@ -1,3 +1,7 @@
+/************************************************************************************************************************************
+ * This branch has been deprecated. Please see "http://github.com/cuda-encryption-benchmarks/benchmark" for the non-deprecated code *
+ ***********************************************************************************************************************************/
+
 // serpent.cpp - written and placed in the public domain by Wei Dai.
 
 /* Subsequently adapted for TrueCrypt (copyrighted by its respectful owners)... 

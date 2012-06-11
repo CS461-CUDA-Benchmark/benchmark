@@ -1,3 +1,7 @@
+/************************************************************************************************************************************
+ * This branch has been deprecated. Please see "http://github.com/cuda-encryption-benchmarks/benchmark" for the non-deprecated code *
+ ***********************************************************************************************************************************/
+
 /*
 
  The algorithm implementation was made by Brian Gladman (see below), and then  

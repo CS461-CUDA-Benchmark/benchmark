@@ -1,3 +1,7 @@
+/************************************************************************************************************************************
+ * This branch has been deprecated. Please see "http://github.com/cuda-encryption-benchmarks/benchmark" for the non-deprecated code *
+ ***********************************************************************************************************************************/
+
 
 // Macro to allow clock_getres() and related functions.
 #define _POSIX_C_SOURCE 199309L
@@ -109,7 +113,7 @@ int main( int argc, char* argv[] ) {
 		exit(EXIT_FAILURE);
 	}
 
-	fprintf(stdout, "Beginning automatic report generation.\n");
+	fprintf(stdout, "WARNING: This code has been DEPRECATED: Please see \"http://github.com/cuda-encryption-benchmarks/benchmark\" for the non-deprecated version..\n");
 
 	// Initialize the report.
 	status = EXIT_SUCCESS;

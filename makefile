@@ -1,3 +1,7 @@
+#/************************************************************************************************************************************
+# * This branch has been deprecated. Please see "http://github.com/cuda-encryption-benchmarks/benchmark" for the non-deprecated code *
+# ***********************************************************************************************************************************/
+
 ccompiler = gcc
 cucompiler = nvcc
 linker = gcc

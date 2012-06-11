@@ -1,3 +1,6 @@
+/************************************************************************************************************************************
+ * This branch has been deprecated. Please see "http://github.com/cuda-encryption-benchmarks/benchmark" for the non-deprecated code *
+ ***********************************************************************************************************************************/
 
 #ifndef benchmark_run_H
 #define benchmark_run_H
